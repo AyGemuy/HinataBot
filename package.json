@@ -4,6 +4,9 @@
     "description": "Free WhatsApp Bot Multi Device With ESM Module",
     "main": "index.js",
     "type": "module",
+    "engines": {
+        "node": "17.1.0"
+    },
     "directories": {
         "lib": "lib",
         "src": "src",
